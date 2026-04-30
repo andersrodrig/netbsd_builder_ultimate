@@ -1,10 +1,20 @@
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge?logo=logo)
+[![License](https://img.shields.io/github/license/andersrodrig/netbsd_builder_ultimate)](https://github.com/andersrodrig/netbsd_builder_ultimate/blob/main/LICENSE)
 
 # ⚡ NetBSD Builder Ultimate
 
 > **"Of course it runs NetBSD"** — Turn the complex NetBSD compilation process into a guided, automated, and efficient experience.
 
 **NetBSD Builder Ultimate** is an advanced Bash wrapper for NetBSD's native `build.sh` system. It automates everything from host dependency installation to the final generation of a functional, original ISO image.
+
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=andersrodrig/netbsd_builder_ultimate&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=andersrodrig/netbsd_builder_ultimate&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=andersrodrig/netbsd_builder_ultimate&type=Date" />
+</picture>
 
 ---
 

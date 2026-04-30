@@ -31,12 +31,12 @@
 
 1.  **Grant execution permissions to the script:**
     ```bash
-    chmod +x netbsd_builder_eng.sh
+    chmod +x netbsd_builder_ultimate.sh
     ```
 
 2.  **Start the process:**
     ```bash
-    ./netbsd_builder_eng.sh
+    ./netbsd_builder_ultimate.sh
     ```
 
 3.  **Follow the on-screen instructions:**
@@ -72,6 +72,8 @@ The script simplifies the selection of primary architectures:
 ## ⚖️ License
 
 This project is distributed under the **2-Clause BSD License**. See the script header for full copyright details and permissions.
+
+**NetBSD®** is a registered trademark of The NetBSD Foundation, Inc.
 
 ---
 **Created by:** Anderson da Costa Rodrigues

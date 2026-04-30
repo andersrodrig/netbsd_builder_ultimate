@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge?logo=logo)
+
 # ⚡ NetBSD Builder Ultimate
 
 > **"Of course it runs NetBSD"** — Turn the complex NetBSD compilation process into a guided, automated, and efficient experience.

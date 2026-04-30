@@ -8,7 +8,7 @@
 
 ## ✨ Features
 
-* **🌐 Multi-Platform:** Automated dependency installation for **macOS (Homebrew)**, **Linux** (Debian, Ubuntu, Fedora, RHEL, Arch), and **BSDs** (FreeBSD, NetBSD).
+* **🌐 Multi-Platform:** Automated dependency installation for **macOS (Homebrew)**, **Linux** (Debian, Ubuntu, Fedora, RHEL, Arch), and **BSDs** (FreeBSD, OpenBSD, NetBSD).
 * **🛠️ Interactive Configuration:** Easily choose versions, architectures, and components through a simple menu.
 * **📦 Source Management:** Support for **STABLE (10.0)** official tarballs or **CURRENT** (bleeding-edge) via Git cloning.
 * **🏗️ Custom Compilation:**

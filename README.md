@@ -87,6 +87,3 @@ This project is distributed under the **2-Clause BSD License**. See the script h
 
 **NetBSD®** is a registered trademark of The NetBSD Foundation, Inc.
 
----
-**Created by:** Anderson da Costa Rodrigues
-**Contact:** andersrodrig@hotmail.com

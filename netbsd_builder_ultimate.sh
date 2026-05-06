@@ -2,7 +2,7 @@
 # =============================================================================
 # NetBSD Builder Ultimate
 #
-# Copyright (C) 2025-2026 Anderson da Costa Rodrigues <andersrodrig@hotmail.com>
+# Copyright (C) 2025-2026 Anderson Rodrigues <andersrodrig@hotmail.com>
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
